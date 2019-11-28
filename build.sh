@@ -1,1 +1,1 @@
-docker build -t my_image .
+docker build -t ft_server .
